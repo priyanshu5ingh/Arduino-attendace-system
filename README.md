@@ -1,10 +1,7 @@
 # Arduino-attendace-system
 Student attendance system using Arduino and C language inclus=ding gsm and fingerprint modules 
 This project outlines building a secure access system using an Arduino Uno, GSM module, fingerprint sensor, SMS verification, and RFID reader. 
-![Alt text][SETUP]
-
-[SETUP]: image.png
-
+![Alt text](image.png)
  Components:
 
 Arduino Uno
@@ -30,9 +27,10 @@ Buzzer
 Connecting wires
 Breadboard (optional)
 
-Software:
+Software
 
 Arduino IDE
 GSM library (e.g., TinyGSM)
 Fingerprint library (e.g., Adafruit Fingerprint)
 RFID library (e.g., MFRC522)
+![Alt text](image-1.png)
